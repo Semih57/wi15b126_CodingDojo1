@@ -1,0 +1,7 @@
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\bin\Debug\CodingDojo1_StackExample.exe.config
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\bin\Debug\CodingDojo1_StackExample.exe
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\bin\Debug\CodingDojo1_StackExample.pdb
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\obj\Debug\CodingDojo1_StackExample.csprojResolveAssemblyReference.cache
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\obj\Debug\CodingDojo1_StackExample.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\obj\Debug\CodingDojo1_StackExample.exe
+C:\Users\semih\source\repos\CodingDojo1_StackExample\CodingDojo1_StackExample\obj\Debug\CodingDojo1_StackExample.pdb
